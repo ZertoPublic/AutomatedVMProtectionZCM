@@ -1,0 +1,3 @@
+ProfileNo,ZertoServiceProfile,ReplicationPriority,RecoverySiteName,ClusterName,FailoverNetwork,TestNetwork,DatastoreName,JournalDatastore,vCenterFolder,BootGroupDelay
+1,SP1,High,DC2,Cluster2,VM Network,Isolated Bubble Port Group,DC2SAN,DC2SAN,ZertoRecoveryFolder,60
+2,SP1,High,DC2,Cluster2,VM Network,Isolated Bubble Port Group,DC2SAN,DC2SAN,ZertoRecoveryFolder,60
